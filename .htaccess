@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^invite$ invite/index.php [L]
+RewriteRule ^home$ home/index.php [L]
+RewriteRule ^login$ login/index.php [L]
+RewriteRule ^box$ box/index.php [L]
